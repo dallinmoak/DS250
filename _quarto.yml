@@ -5,9 +5,9 @@ website:
   title: "Dallin Moak - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  site-url: https://dallinmoak.github.io/course_work_portfolio/
-  repo-url: https://github.com/dallinmoak/course_work_portfolio
-  issue-url: https://github.com/dallinmoak/course_work_portfolio/issues/new
+  site-url: https://dallinmoak.github.io/DS250/
+  repo-url: https://github.com/dallinmoak/DS250
+  issue-url: https://github.com/dallinmoak/DS250/issues/new
   repo-actions: [issue]
 
   page-footer: 
