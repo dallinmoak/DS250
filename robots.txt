@@ -1,1 +1,1 @@
-Sitemap: https://dallinmoak.github.io/course_work_portfolio/sitemap.xml
+Sitemap: https://dallinmoak.github.io/DS250/sitemap.xml
