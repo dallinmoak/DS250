@@ -4,3 +4,4 @@
 /site_libs/
 /docs/
 
+.venv/

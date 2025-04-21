@@ -21,4 +21,4 @@ This is all configured so you only need to edit the source files in Quarto (.qmd
 
 1. The first time you publish to your repo use GitHub Desktop and `Commit` all your files then `Push` them.
 
-test change
+for locally running quarto, i'm using venv and a `reqs.txt` file to manage project dependancies. `pip install -r reqs.txt` to install current deps.
